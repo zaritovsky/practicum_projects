@@ -13,4 +13,5 @@ Data from June 2017 to the end of May 2018:
 
 
 **A-B_testing.ipynb**
+
 Analysis of the performed A / B test. Business metric analysis and hypothesis testing.
